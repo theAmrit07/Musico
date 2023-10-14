@@ -1,1 +1,1 @@
-# amazon-clone
+# MUSICO - A Music Streaming Web App
